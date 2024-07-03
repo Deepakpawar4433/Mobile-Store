@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Mobile_StoreAPI/.vs/Mobile_StoreAPI/DesignTimeBuild
+/Mobile_StoreAPI/.vs/Mobile_StoreAPI/FileContentIndex
+/Mobile_StoreAPI/.vs/ProjectEvaluation
+/Mobile_StoreAPI/Mobile_StoreAPI/obj
+/Mobile_StoreAPI/.vs/Mobile_StoreAPI/v17
